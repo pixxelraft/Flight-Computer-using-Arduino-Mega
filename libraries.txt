@@ -1,0 +1,6 @@
+# Wokwi Library List
+
+Adafruit MPU6050
+Adafruit Unified Sensor
+LiquidCrystal_I2C
+SD
